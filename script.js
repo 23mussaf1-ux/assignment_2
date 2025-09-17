@@ -1,3 +1,4 @@
+// Commit test: updated script.js
 document.addEventListener("DOMContentLoaded", () => {
   const button = document.getElementById("toggleBtn");
   const hiddenText = document.getElementById("hiddenText");
